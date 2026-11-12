@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(npm *)",
-      "WebFetch(domain:ai.google.dev)",
-      "WebFetch(domain:aistudio.google.com)"
-    ]
-  }
-}
