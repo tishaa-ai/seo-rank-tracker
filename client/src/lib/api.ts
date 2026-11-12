@@ -4,7 +4,7 @@ export const TOKEN_KEY = "token";
 
 const api = axios.create({
     baseURL: import.meta.env.VITE_API_URL || "http://localhost:5000/api",
-    timeout: 90000, // analysis can take 10-30s
+    timeout: 180000, // analysis is usually 10-30s, but Gemini retries + fallback (60s timeout per call) can take longer
 });
 
 // Attach the JWT to every request

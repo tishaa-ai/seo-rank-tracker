@@ -46,11 +46,13 @@ export default function Analyze() {
             toast.success("Report ready!");
             setTimeout(() => navigate(`/report/${res.data.analysis._id}`), 600);
         } catch (err) {
+            // Always leave the loading screen and show why it failed
             clearTimers();
             const message = getErrorMessage(err, "Analysis failed. Please try again.");
-            setError(message);
-            toast.error(message);
             setAnalyzing(false);
+            setCurrentStep(0);
+            setError(message);
+            toast.error(message, { id: "analyze-error", duration: 6000 });
         }
     };
 
