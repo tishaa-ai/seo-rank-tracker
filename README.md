@@ -179,7 +179,7 @@ Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
 Analyzing
-![Analyzing](screenshots/Analyze.png)
+![Analyzing](screenshots/Analyse.png)
 
 SEO Report
 ![SEO Report](screenshots/Report.png)
