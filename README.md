@@ -101,7 +101,7 @@ seo-rank-tracker/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/<your-username>/seo-rank-tracker.git
+git clone https://github.com/tishaa-ai/seo-rank-tracker.git
 cd seo-rank-tracker
 ```
 
@@ -176,17 +176,17 @@ Open http://localhost:5173.
 ## Screenshots
 
 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 Analyzing
-![Analyzing](screenshots/analyze.png)
+![Analyzing](screenshots/Analyze.png)
 
 SEO Report
-![SEO Report](screenshots/report.png)
+![SEO Report](screenshots/Report.png)
 
 ## Author
 
 **Tisha Bagde**
 
-- GitHub: https://github.com/https://github.com/tishaa-ai
-- LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/tisha-bagde/
+- GitHub: https://github.com/tishaa-ai
+- LinkedIn: https://www.linkedin.com/in/tisha-bagde/
