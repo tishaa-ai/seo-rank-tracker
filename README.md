@@ -173,6 +173,17 @@ Open http://localhost:5173.
 
 ---
 
+## Screenshots
+
+Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+Analyzing
+![Analyzing](screenshots/analyze.png)
+
+SEO Report
+![SEO Report](screenshots/report.png)
+
 ## Author
 
 **Tisha Bagde**
